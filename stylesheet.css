@@ -1,0 +1,5 @@
+body {background-color: rgb(173, 173, 173)}
+.boxshadow {box-shadow: 2px 2px 3px  rgb(57, 57, 57)}
+.submit {border: 1px solid black; box-shadow: 2px 2px 2px 2px; color: rgb(78, 78, 78) ; border-radius: 2px; }
+:hover.submit {color:blue; box-shadow: none;}
+.contactme {margin: 30px ;}
